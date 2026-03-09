@@ -1,6 +1,6 @@
 # Hi, I'm Vishal Prajapati 👋
  
-*Full Stack Engineer | Co-Founder @ Alienous AI | AI/ML Enthusiast*
+*Full Stack Engineer | Co-Founder @ Alienous AI | Prev - Data Engineer @ Kompass India | AI/ML Enthusiast*
 
 🌟 **About Me**  
 I am a passionate Full Stack Engineer and Co-Founder of Alienous AI, dedicated to crafting scalable, high-performance web applications. I've successfully shipped 2 client projects from concept to launch.  
