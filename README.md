@@ -13,7 +13,7 @@ Beyond code, I stay active with regular workouts and prioritize collaboration, m
 - 📧 **Email**: [vishalprajapa15@gmail.com](mailto:vishalprajapa15@gmail.com)  
 - 🔗 **LinkedIn**: [vishal-prajapati17](https://www.linkedin.com/in/vishal-prajapati17/)  
 - 🐙 **GitHub**: [Vishal-Prajapati17](https://github.com/Vishal-Prajapati17)  
-- 🐦 **X (Twitter)**: [@VishalP78425](https://x.com/VishalP78425)  
+- 🐦 **X (Twitter)**: [@Vishal_Prajap17](https://x.com/Vishal_Prajap17)  
 - 📝 **Medium**: [@Vishal-Prajapati17](https://medium.com/@Vishal-Prajapati17)  
 - 💻 **LeetCode**: [Vishal-17](https://leetcode.com/u/Vishal-17/)  
 
