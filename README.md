@@ -47,7 +47,7 @@ Kompass India is a global leader in innovative B2B data and digital marketing so
 |----------|---------|
 | **Areas of Expertise** 🔍 | Product Data Management, Deep Learning with AI, NLP, Data Science, Data Analytics, Data Harvesting, Predictive Analytics, Generative AI, Automation, Computer Vision |
 | **Soft Skills** 💬 | Good Communication, Adaptability, Reliable and Consistent, Rapport Building, Cross-functional Collaboration |
-| **Programming Languages** 💻 | C, C++, C#, PHP, Python, Go, JavaScript, HTML5/CSS, MySQL, PostgreSQL, MongoDB |
+| **Programming Languages** 💻 | C, C++, C#, PHP, Python, Go, JavaScript, TypeScript, HTML5/CSS, MySQL, PostgreSQL, MongoDB |
 | **Technical Tools** 🧰 | Excel, Figma, Git & GitHub, Tableau, Power BI, Elasticsearch, Postman |
 | **Frameworks** 🏗️ | Scrapy, FastAPI, Django, DRF, React JS, Chart JS, PySide6 |
 | **Machine Learning** 📈 | NumPy, Pandas, Matplotlib, SciPy, Scikit-learn |
